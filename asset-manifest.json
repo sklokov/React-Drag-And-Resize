@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Drag-And-Resize/static/css/main.beaf7984.chunk.css",
+    "main.js": "/React-Drag-And-Resize/static/js/main.9bc87c07.chunk.js",
+    "main.js.map": "/React-Drag-And-Resize/static/js/main.9bc87c07.chunk.js.map",
+    "runtime-main.js": "/React-Drag-And-Resize/static/js/runtime-main.53ccce54.js",
+    "runtime-main.js.map": "/React-Drag-And-Resize/static/js/runtime-main.53ccce54.js.map",
+    "static/js/2.70ce69d0.chunk.js": "/React-Drag-And-Resize/static/js/2.70ce69d0.chunk.js",
+    "static/js/2.70ce69d0.chunk.js.map": "/React-Drag-And-Resize/static/js/2.70ce69d0.chunk.js.map",
+    "index.html": "/React-Drag-And-Resize/index.html",
+    "precache-manifest.34959afcc97da0f11f28a71a3f14d6f1.js": "/React-Drag-And-Resize/precache-manifest.34959afcc97da0f11f28a71a3f14d6f1.js",
+    "service-worker.js": "/React-Drag-And-Resize/service-worker.js",
+    "static/css/main.beaf7984.chunk.css.map": "/React-Drag-And-Resize/static/css/main.beaf7984.chunk.css.map",
+    "static/js/2.70ce69d0.chunk.js.LICENSE.txt": "/React-Drag-And-Resize/static/js/2.70ce69d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53ccce54.js",
+    "static/js/2.70ce69d0.chunk.js",
+    "static/css/main.beaf7984.chunk.css",
+    "static/js/main.9bc87c07.chunk.js"
+  ]
+}
