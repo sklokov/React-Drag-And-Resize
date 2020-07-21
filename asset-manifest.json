@@ -1,26 +1,22 @@
 {
   "files": {
-    "main.css": "/ReactSocialNetwork/static/css/main.f680db39.chunk.css",
-    "main.js": "/ReactSocialNetwork/static/js/main.71a016c2.chunk.js",
-    "main.js.map": "/ReactSocialNetwork/static/js/main.71a016c2.chunk.js.map",
-    "runtime~main.js": "/ReactSocialNetwork/static/js/runtime~main.85b97c49.js",
-    "runtime~main.js.map": "/ReactSocialNetwork/static/js/runtime~main.85b97c49.js.map",
-    "static/js/2.27905dd0.chunk.js": "/ReactSocialNetwork/static/js/2.27905dd0.chunk.js",
-    "static/js/2.27905dd0.chunk.js.map": "/ReactSocialNetwork/static/js/2.27905dd0.chunk.js.map",
-    "static/css/3.5bda8411.chunk.css": "/ReactSocialNetwork/static/css/3.5bda8411.chunk.css",
-    "static/js/3.606bdd9d.chunk.js": "/ReactSocialNetwork/static/js/3.606bdd9d.chunk.js",
-    "static/js/3.606bdd9d.chunk.js.map": "/ReactSocialNetwork/static/js/3.606bdd9d.chunk.js.map",
-    "static/css/4.0a953676.chunk.css": "/ReactSocialNetwork/static/css/4.0a953676.chunk.css",
-    "static/js/4.7af3deec.chunk.js": "/ReactSocialNetwork/static/js/4.7af3deec.chunk.js",
-    "static/js/4.7af3deec.chunk.js.map": "/ReactSocialNetwork/static/js/4.7af3deec.chunk.js.map",
-    "index.html": "/ReactSocialNetwork/index.html",
-    "precache-manifest.1bb4093c961b36ffb990bc2587fe29a1.js": "/ReactSocialNetwork/precache-manifest.1bb4093c961b36ffb990bc2587fe29a1.js",
-    "service-worker.js": "/ReactSocialNetwork/service-worker.js",
-    "static/css/3.5bda8411.chunk.css.map": "/ReactSocialNetwork/static/css/3.5bda8411.chunk.css.map",
-    "static/css/4.0a953676.chunk.css.map": "/ReactSocialNetwork/static/css/4.0a953676.chunk.css.map",
-    "static/css/main.f680db39.chunk.css.map": "/ReactSocialNetwork/static/css/main.f680db39.chunk.css.map",
-    "static/media/IMG_8006.jpg": "/ReactSocialNetwork/static/media/IMG_8006.f14d0b17.jpg",
-    "static/media/preloader.svg": "/ReactSocialNetwork/static/media/preloader.6e7c9db7.svg",
-    "static/media/user.png": "/ReactSocialNetwork/static/media/user.8b1dbb1f.png"
-  }
+    "main.css": "/React-Drag-And-Resize/static/css/main.beaf7984.chunk.css",
+    "main.js": "/React-Drag-And-Resize/static/js/main.9bc87c07.chunk.js",
+    "main.js.map": "/React-Drag-And-Resize/static/js/main.9bc87c07.chunk.js.map",
+    "runtime-main.js": "/React-Drag-And-Resize/static/js/runtime-main.53ccce54.js",
+    "runtime-main.js.map": "/React-Drag-And-Resize/static/js/runtime-main.53ccce54.js.map",
+    "static/js/2.70ce69d0.chunk.js": "/React-Drag-And-Resize/static/js/2.70ce69d0.chunk.js",
+    "static/js/2.70ce69d0.chunk.js.map": "/React-Drag-And-Resize/static/js/2.70ce69d0.chunk.js.map",
+    "index.html": "/React-Drag-And-Resize/index.html",
+    "precache-manifest.34959afcc97da0f11f28a71a3f14d6f1.js": "/React-Drag-And-Resize/precache-manifest.34959afcc97da0f11f28a71a3f14d6f1.js",
+    "service-worker.js": "/React-Drag-And-Resize/service-worker.js",
+    "static/css/main.beaf7984.chunk.css.map": "/React-Drag-And-Resize/static/css/main.beaf7984.chunk.css.map",
+    "static/js/2.70ce69d0.chunk.js.LICENSE.txt": "/React-Drag-And-Resize/static/js/2.70ce69d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53ccce54.js",
+    "static/js/2.70ce69d0.chunk.js",
+    "static/css/main.beaf7984.chunk.css",
+    "static/js/main.9bc87c07.chunk.js"
+  ]
 }
